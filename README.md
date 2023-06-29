@@ -1,4 +1,4 @@
-# ShareMe Social Media Application
+# SnapStream Application
 ![ShareMe](https://i.ibb.co/8cLfj3X/image.png)
 
 ## Introduction
